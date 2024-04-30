@@ -13,4 +13,6 @@ app.MapGet("/", () => "Hello World!");
 // 3
 
 //TEST TOTO
+
+// TEST 2
 app.Run();
